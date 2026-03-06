@@ -153,6 +153,12 @@ npm install -g pyright
 
 - [ ] Open tmux and press `prefix + I` to install TPM plugins
 - [ ] Run `p10k configure` if the prompt needs reconfiguring
+- [ ] Install Zed extensions (open Zed → Extensions panel):
+  - [ ] Catppuccin Icons (icon theme)
+  - [ ] One Dark Pro Max (includes One Dark Pro Glass theme)
+  - [ ] Dockerfile (Dockerfile language support)
+  - [ ] Git Firefly (git syntax highlighting)
+  - [ ] HTML (HTML language support)
 - [ ] Install Python: `pyenv install 3.12 && pyenv global 3.12`
 - [ ] Install Node: `nvm install --lts`
 - [ ] Install Java: `sdk install java` (if needed)
