@@ -1,0 +1,14 @@
+[user]
+	name = Your Name
+	email = your-email@example.com
+	signingkey = ~/.ssh/personal-key.pub
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true
+[includeIf "gitdir:~/Work/"]
+	path = ~/.gitconfig-work

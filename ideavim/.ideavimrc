@@ -1,0 +1,11 @@
+syntax on
+set number
+set relativenumber
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set cursorline
+set clipboard=unnamed
+set mouse=v
+set showmatch
+set matchpairs+=<:>

@@ -1,0 +1,18 @@
+# CLI tools
+brew "biome"
+brew "colima"
+brew "docker"
+brew "fastfetch"
+brew "fd"
+brew "fzf"
+brew "go"
+brew "nvm"
+brew "pyenv"
+brew "pyright"
+brew "ruff"
+brew "stow"
+brew "tmux"
+brew "tree"
+
+# Approved GUI apps only
+cask "claude-code"
