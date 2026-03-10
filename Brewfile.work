@@ -18,4 +18,5 @@ brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 
 # Approved GUI apps only
+cask "aldente"
 cask "claude-code"

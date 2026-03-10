@@ -159,6 +159,7 @@ npm install -g pyright
   - [ ] Dockerfile (Dockerfile language support)
   - [ ] Git Firefly (git syntax highlighting)
   - [ ] HTML (HTML language support)
+- [ ] Install Xcode from the App Store (cannot be automated via brew)
 - [ ] Install Python: `pyenv install 3.12 && pyenv global 3.12`
 - [ ] Install Node: `nvm install --lts`
 - [ ] Install Java: `sdk install java` (if needed)

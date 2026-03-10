@@ -18,10 +18,13 @@ brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 
 # GUI apps
+cask "aldente"
 cask "claude-code"
 cask "font-liga-comic-mono"
 cask "font-sf-mono-nerd-font-ligaturized"
 cask "ghostty"
+cask "intellij-idea-ce"
 cask "mactex"
 cask "obsidian"
 cask "zed"
+cask "zen-browser"
