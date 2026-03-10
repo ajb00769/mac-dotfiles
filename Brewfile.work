@@ -13,6 +13,9 @@ brew "ruff"
 brew "stow"
 brew "tmux"
 brew "tree"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
 
 # Approved GUI apps only
 cask "claude-code"
